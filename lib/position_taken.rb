@@ -4,6 +4,7 @@ board = []
 index = 0 
 
 
-def position_taken?
-  if
-    elsif
+def position_taken?(board, index)
+  if index == " "
+    
+end 
