@@ -6,5 +6,6 @@ index = 0
 
 def position_taken?(board, index)
   if index == " "
-    
+    false 
+  end 
 end 
